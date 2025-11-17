@@ -14,7 +14,7 @@
 
 
 /* start dark mode styling */
-	@media (prefers-color-scheme: dark) {
+	@media (prefers-color-scheme: light) {
 		:root {
 			--text: white;
 			--border: #5a7678;
